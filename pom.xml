@@ -6,7 +6,8 @@
 
   <groupId>com.mindtree</groupId>
   <artifactId>SampleMVNDemo</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <packaging>war</packaging>
+  <version>1.0-SNAPSHOT</version>
 
   <name>SampleMVNDemo</name>
   <!-- FIXME change it to the project's website -->
